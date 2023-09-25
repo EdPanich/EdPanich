@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Eduard Panich Caceres
+## Full Stack Web Development Diploma Student
+
+I´m currenly an Environmental engineer looking forward to becoming a **Full Stack Developer**.
+I like to watch anime, play tennis, skate and play online games too.
+
 <!--
 **EdPanich/EdPanich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
