@@ -6,6 +6,9 @@
 I´m currenly an Environmental engineer looking forward to becoming a **Full Stack Developer**.
 
 
+I´m on my first year of the Full Stack Web Development Diploma program at the UofA.
+
+
 I like to watch anime, play tennis, skate and play online games too.
 
 <!--
