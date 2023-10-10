@@ -1,5 +1,3 @@
-# Hi there 👋
-
 # Eduard Panich Caceres
 ## Full Stack Web Developer
 
