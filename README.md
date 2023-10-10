@@ -3,13 +3,13 @@
 # Eduard Panich Caceres
 ## Full Stack Web Development Diploma Student
 
-I´m currenly an Environmental engineer looking forward to becoming a **Full Stack Developer**.
+- I´m currenly an Environmental engineer looking forward to becoming a **Full Stack Developer**.
 
 
-I´m on my first year of the Full Stack Web Development Diploma program at the UofA.
+- I´m on my first year of the Full Stack Web Development Diploma program at the UofA.
 
 
-I like to watch anime, play tennis, skate and play online games too.
+- I like to watch anime, play tennis, skate and play online games too.
 
 <!--
 **EdPanich/EdPanich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
